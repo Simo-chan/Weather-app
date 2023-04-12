@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_holder"
+    app:startDestination="@id/news_fragment">
+
+    <fragment
+        android:id="@+id/news_fragment"
+        android:name="com.example.news_weatherapp.News"
+        android:label="fragment_news"
+        tools:layout="@layout/fragment_news" />
+    <fragment
+        android:id="@+id/weather_fragment"
+        android:name="com.example.news_weatherapp.Weather_fragment"
+        android:label="fragment_weather"
+        tools:layout="@layout/fragment_weather" />
+    <fragment
+        android:id="@+id/profile_fragment"
+        android:name="com.example.news_weatherapp.Profile"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+</navigation>

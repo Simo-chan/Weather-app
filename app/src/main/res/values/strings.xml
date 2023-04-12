@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">News-Weather app</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="newsPicture_description">Shows picture of the news</string>
+    <string name="gigachad_headline">Anyone can become Gigachad</string>
+    <string name="gigachad_description">To become like Gigachad you just need one drop of the…</string>
+    <string name="lips_headline">New invention</string>
+    <string name="lips_description">Result will shock you! To pump your lips you just need…</string>
+    <string name="cat_headline">Get a free pussy</string>
+    <string name="cat_description">Finally even you have a chance to get a pussy…</string>
+    <string name="pipi_headline">From 10cm to 15cm</string>
+    <string name="pipi_description">You will be in shock!! Increase your sausage by 5cm in just a month!</string>
+    <string name="milf_headline">This hot mom is alone today</string>
+    <string name="milf_description">Find easily hot milfs in your area with our new app</string>
+    <string name="ointment_headline">Lasting only 2 minutes?</string>
+    <string name="ointment_description">Not a problem anymore! Try this new ointment</string>
+    <string name="trollface_headline">Old but gold</string>
+    <string name="trollface_descriptiom">The legendary meme made its comeback. Read the story of the famous meme.</string>
+    <string name="kianu_headline">Modern decease</string>
+    <string name="kianu_description">How depression seized the modern generation and what to do.</string>
+    <string name="bbc_news">BBC-News(BigBlackCock)</string>
+    <string name="picture">picture</string>
+
+    <string name="gigachad_article">\nToday everything is possible! With this magic liquid you can become like Gigachad.
+        All you need is just a drop of this liquid named "Simon\'s cum".
+        \n\nWho is Gigachad? GigaChad is a nickname associated with the art project berlin.1969
+        or Ernest Khalimov,which is a series of photoshopped photographs of several models created by 
+        Russian photographer Krista Sudmalis for her project Sleek-N-Tears.
+        The name "GigaChad" indicates that the person, who was initially assumed to be real, is the ultimate 
+        Chad Thundercock, an internet archetype representing an ultra-masculine, sexually attractive male.Online, 
+        the term was popularized within various incel communities.</string>
+
+    <string name="lips_article">\nPump your lips with this brand new shit.
+    \nLip augmentation is a cosmetic procedure that modifies the shape of the lips using fillers, 
+    such as collagen or implants. The procedure may be performed to increase lip size, correct asymmetry, 
+    create protrusion, or adjust the ratio of the top and bottom lips. The procedure typically involves surgical 
+    injection, though temporary non-surgical alternatives exist. Swelling and bruising are common after lip augmentation, 
+    and irritation or allergic reaction may also occur. Lip augmentations can have undesired cosmetic effects, 
+    including scarring and lumping, and implants pose the risk of shifting underneath the lip or breaking through the skin.</string>
+
+    <string name="cat_article">\nGet your free pussy already today. \nPussy Riot is a Russian feminist protest and performance
+    art group based in Moscow that became popular for its provocative punk rock music which later
+    turned into a more accessible style. Founded in August 2011, it has had a membership of approximately 11 women.
+    The group staged unauthorized, provocative guerrilla gigs in public places. These performances were filmed as music
+    videos and posted on the internet. The group\'s lyrical themes included feminism, LGBT rights, opposition to Russian
+    President Vladimir Putin and his policies, and Putin\'s links to the leadership of the Russian Orthodox Church.</string>
+
+    <string name="pipi_article">\nIncrease your pipi size and get all pussies around you.
+        \nA penis (plural penises or penes is the primary sexual organ that male animals use
+        to inseminate females (or hermaphrodites) during copulation. Such organs occur in many animals,
+        both vertebrate and invertebrate, but males do not bear a penis in every animal species.
+        Furthermore, penises are not necessarily homologous.</string>
+
+    <string name="milf_article">\nAn organism\'s sex is female if it produces the ovum (egg cell),
+        the type of gamete (sex cell) that fuses with the male gamete (sperm cell) during sexual reproduction.A
+        female has larger gametes than a male. Females and males are results of the anisogamous reproduction system,
+        wherein gametes are of different sizes (unlike isogamy where they are the same size). The exact mechanism
+        of female gamete evolution remains unknown.
+        In species that have males and females, sex-determination may be based on either sex chromosomes,
+        or environmental conditions. Most female mammals, including female humans, have two X chromosomes.
+        Female characteristics vary between different species, with some species having pronounced secondary
+        female sex characteristics, such as the presence of pronounced mammary glands in mammals.</string>
+
+    <string name="ointment_article">\nMany men believe that increasing the size of their penises will make them
+        a better lover or make them more attractive. But chances are your penis is within the typical size range.Even
+        if your penis is smaller than average, it may not matter to your partner. In addition, there\'s no proven way
+        to make a penis larger. The solution to your concerns about penis size may be as easy as talking with your
+        partner or getting in shape. If those steps don\'t help, try talking with a professional counselor about
+        your concerns.</string>
+
+    <string name="trollface_article">\nTrollface was drawn in Microsoft Paint on September 19, 2008, by Carlos Ramirez,
+        an 18-year-old Oakland college student. The image was published on Ramirez\'s DeviantArt page, "Whynne",
+        as part of a rage comic titled Trolls, about the pointless nature of trolling.Ramirez posted the image
+        to the imageboard website 4chan and other users started to share it. In the following months, Ramirez\'s
+        drawing quickly gained traction on 4chan as the universal emoticon of an internet troll and a versatile rage
+        comic character. From 4chan, Trollface spread to Reddit and Urban Dictionary in 2009, eventually reaching other
+        internet image-sharing sites like Imgur and Facebook. In March 2021, Ramirez announced his intention
+        to sell a non-fungible token for Trollface.</string>
+
+    <string name="kianu_article">\nThere has been much speculation about modern environments causing an epidemic
+        of depression. This review aims to determine whether depression rates have increased and review evidence
+        for possible explanations. While available data indicate rising prevalence and an increased lifetime risk
+        for younger cohorts, strong conclusions cannot be drawn due to conflicting results and methodological flaws.
+        There are numerous potential explanations for changing rates of depression. Cross-cultural studies can be
+        useful for identifying likely culprits. General and specific characteristics of modernization correlate
+        with higher risk. A positive correlation between a country\’s GDP per capita, as quantitative measure of
+        modernization, and lifetime risk of a mood disorder trended toward significance. Mental and physical
+        well-being are intimately related. The growing burden of chronic diseases, which arise from an evolutionary
+        mismatch between past human environments and modern-day living, may be central to rising rates of depression.
+        Declining social capital and greater inequality and loneliness are candidate mediators of a depressiogenic
+        social milieu. Modern populations are increasingly overfed, malnourished, sedentary, sunlight-deficient,
+        sleep-deprived, and socially-isolated.</string>
+</resources>
