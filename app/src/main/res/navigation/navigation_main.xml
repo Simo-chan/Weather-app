@@ -7,12 +7,12 @@
 
     <fragment
         android:id="@+id/news_fragment"
-        android:name="com.example.news_weatherapp.News"
+        android:name="com.example.news_weatherapp.NewsFragment"
         android:label="fragment_news"
         tools:layout="@layout/fragment_news" />
     <fragment
         android:id="@+id/weather_fragment"
-        android:name="com.example.news_weatherapp.Weather_fragment"
+        android:name="com.example.news_weatherapp.WeatherFragment"
         android:label="fragment_weather"
         tools:layout="@layout/fragment_weather" />
     <fragment

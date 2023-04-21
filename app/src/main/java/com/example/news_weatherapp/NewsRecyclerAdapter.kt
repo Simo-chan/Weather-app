@@ -31,19 +31,21 @@ class NewsRecyclerAdapter : RecyclerView.Adapter<NewsRecyclerAdapter.ViewHolder>
         return newsData.size
     }
 
-    override fun onBindViewHolder(holder: ViewHolder, position: Int) {
-        val currentItem = newsData[position]
-        holder.picture.setImageResource(currentItem.picture)
-        holder.headline.text = currentItem.headline
-        holder.description.text = currentItem.description
-    }
+    override fun onBindViewHolder(holder: ViewHolder, position: Int) =
+        holder.bind(newsData[position])
 
 
     inner class ViewHolder(itemView: View, listener: OnItemClickListener) :
         RecyclerView.ViewHolder(itemView) {
-        val headline: TextView = itemView.findViewById(R.id.headline_of_news)
-        val description: TextView = itemView.findViewById(R.id.description_of_news)
-        val picture: ImageView = itemView.findViewById(R.id.picture_of_news)
+        private val headline: TextView = itemView.findViewById(R.id.headline_of_news)
+        private val description: TextView = itemView.findViewById(R.id.description_of_news)
+        private val picture: ImageView = itemView.findViewById(R.id.picture_of_news)
+
+        fun bind(news: NewsItems) {
+            headline.text = news.headline
+            description.text = news.description
+            picture.setImageResource(news.picture)
+        }
 
         init {
             itemView.setOnClickListener {

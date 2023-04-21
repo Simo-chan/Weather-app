@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 
-class News : Fragment() {
+class NewsFragment : Fragment() {
 
     private lateinit var articleArray: Array<String>
 
@@ -112,7 +112,7 @@ class News : Fragment() {
                 val fragment = parentFragmentManager
                 fragment.beginTransaction()
                     .addToBackStack("null")
-                    .replace(R.id.nav_fragment, ArticleFragment())
+                    .replace(R.id.nav_fragment, articleFragment)
                     .commit()
             }
         })
